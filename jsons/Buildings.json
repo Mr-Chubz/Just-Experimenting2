@@ -1,0 +1,24 @@
+[
+{
+		"name": "Number One Under Heaven Competition",
+                "uniqueto": "Continent of Pendor",
+                "requiredBuilding": "Found Knighthood Orders",
+                "cost": 975,
+		"uniques": ["Empire enters golden age","Free [Order Grandmasters] appears"],
+                "requiredTech": "Atomic Theory",
+	},
+   	        {
+		"name": "Found Knighthood Orders",
+	   	"replaces": "Barracks",
+                "cost": 24,
+		"uniqueTo": "Continent of Pendor",
+		"cityStrength": 5,
+		"cityHealth": 50,
+		"xpForNewUnits": 50,
+		"gold": 2,
+		"hurryCostModifier": 4550,
+		"maintenance": 0,
+		"uniques": ["
+		"requiredTech": "Animal Husbandry"
+        },
+]
