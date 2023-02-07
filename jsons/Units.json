@@ -60,7 +60,7 @@
 		"movement": 2,
 		"strength": 24,
                 "cost": 325,
-		"requiredTech": "Replaceable Parts",
+		"requiredTech": "Steel",
                 "requiredResource": "Iron",
 		"uniques": ["+5 hp when healing","+[140]% when defending","+[100]% Strength when attacking","Deal +[5]% damage when [wounded]","[Damage taken reduced by 20]%",
                          "+[15]% Strength vs [Mounted] units","+[15]% Strength vs [Siege] units","+[10]% Combat Strength vs [Wounded units]",
