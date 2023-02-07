@@ -8,7 +8,7 @@
 		"uniques": ["Can build [Land] improvements on tiles","May create improvements on water resources","Founds a new city",
                 "upgradesTo": "Heavy Man-at-Arms",
 		"cost": 80,
-                "quote": "'It's almost harvesting season!'"
+                "quote": "It's almost harvesting season!"
 	},
 {
 		"name": "Heavy Man-at-Arms",
@@ -40,7 +40,7 @@
 		"attackSound": "arrow"
 	},
 {
-		"name": "Heavy Knights and Sergeant",
+		"name": "Heavy Knights and Sergeants",
 		"uniqueTo": "Continent of Pendor",
 		"unitType": "Mounted",
 		"movement": 5,
