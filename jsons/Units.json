@@ -12,7 +12,7 @@
 {
 		"name": "Heavy Men-at-Arms",
 		"uniqueTo": "Continent of Pendor",
-		"unitType": "melee",
+		"unitType": "Sword",
 		"movement": 2,
 		"strength": 20,
                 "cost": 260,
@@ -56,7 +56,7 @@
 {
 		"name": "Foot Knights and Sergeants",
 		"uniqueTo": "Continent of Pendor",
-		"unitType": "Melee",
+		"unitType": "Sword",
 		"movement": 2,
 		"strength": 24,
                 "cost": 325,
