@@ -18,7 +18,7 @@
                 "cost": 260,
                 "requiredResource": "Iron",
 		"uniques": ["+[20]% Combat Bonus in [Friendly Land]","[+50]% Strength <vs [Mounted] units>", "[+50]% Strength <vs [Bestial] units>", "[+50]% Strength <vs [Bestial Ranged] units>"]
-        "promotions": ["Rejuvenation",
+        "promotions": ["Rejuvenation"],
 		"attackSound": "shot"
 	},
     {
@@ -35,7 +35,7 @@
 		"uniques": ["+5 hp when healing","+[20]% Combat bonus in [Foreign Land]","May withdraw before melee ([40]%)","Can move after attacking","No movement cost to pillage",
                          "+[15]% Strength vs [Ranged] units","Consumes [1] [Horses]"
                          "+[20]% Bonus XP gain","[Great General] is earned [20]% faster",
-        "promotions": ["Rejuvenation",
+        "promotions": ["Rejuvenation"],
 		"attackSound": "arrow"
 	},
 {
@@ -50,7 +50,7 @@
 		"uniques": ["+[20]% Strength when attacking","[Damage taken reduced by 20]%","+5 hp when healing","Consumes [2] [Iron]"
                          "+[10]% Strength vs [Wounded units]","Can move after attacking",
                          "+[20]% Bonus XP gain","[Great General] is earned [20]% faster",
-        "promotions": ["Rejuvenation","Shock I","Drill I","Charge",
+        "promotions": ["Rejuvenation","Shock I","Drill I","Charge"],
 		"attackSound": "horse"
 	},
 {
@@ -66,7 +66,7 @@
                          "+[15]% Strength vs [Mounted] units","+[15]% Strength vs [Siege] units","+[10]% Combat Strength vs [Wounded units]",
                          "+[50]% Strength vs [City] units","Consumes [2] [Iron]"
                          "+[20]% Bonus XP gain","[Great General] is earned [20]% faster","-[20]% Strength for enemy [Military] units in adjacent [All] tiles","3 tiles in every direction always visible"],
-        "promotions": ["Rejuvenation","Woodsman","Shock I","Drill I","Formation I",
+        "promotions": ["Rejuvenation","Woodsman","Shock I","Drill I","Formation I"],
 		"attackSound": "metalhit"
 	},
 
