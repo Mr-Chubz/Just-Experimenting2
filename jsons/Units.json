@@ -17,7 +17,7 @@
 		"strength": 20,
                 "cost": 260,
                 "requiredResource": "Iron",
-		"uniques": ["+[20]% Combat Bonus in [Friendly Land]"],"[+50]% Strength <vs [Mounted] units>", "[+50]% Strength <vs [Bestial] units>", "[+50]% Strength <vs [Bestial Ranged] units>",]
+		"uniques": ["+[20]% Combat Bonus in [Friendly Land]","[+50]% Strength <vs [Mounted] units>", "[+50]% Strength <vs [Bestial] units>", "[+50]% Strength <vs [Bestial Ranged] units>"]
         "promotions": ["Rejuvenation",
 		"attackSound": "shot"
 	},
