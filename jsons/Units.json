@@ -34,7 +34,7 @@
                 "requiredResource": "Horses",
 		"uniques": ["+5 hp when healing","+[20]% Combat bonus in [Foreign Land]","May withdraw before melee ([40]%)","Can move after attacking","No movement cost to pillage",
                          "+[15]% Strength vs [Ranged] units","Consumes [1] [Horses]"
-                         "+[20]% Bonus XP gain","[Great General] is earned [20]% faster",
+                         "+[20]% Bonus XP gain","[Great General] is earned [20]% faster",]
         "promotions": ["Rejuvenation"],
 		"attackSound": "arrow"
 	},
@@ -49,7 +49,7 @@
                 "requiredResource": "Iron",
 		"uniques": ["+[20]% Strength when attacking","[Damage taken reduced by 20]%","+5 hp when healing","Consumes [2] [Iron]"
                          "+[10]% Strength vs [Wounded units]","Can move after attacking",
-                         "+[20]% Bonus XP gain","[Great General] is earned [20]% faster",
+                         "+[20]% Bonus XP gain","[Great General] is earned [20]% faster",]
         "promotions": ["Rejuvenation","Shock I","Drill I","Charge"],
 		"attackSound": "horse"
 	},
