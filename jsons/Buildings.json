@@ -18,7 +18,6 @@
 		"gold": 2,
 		"hurryCostModifier": 4550,
 		"maintenance": 0,
-		"uniques": ["
-		"requiredTech": "Animal Husbandry"
+		"requiredTech": "Animal Husbandry",
         },
 ]
