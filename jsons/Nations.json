@@ -39,6 +39,6 @@
 			"+10% Strength when fighting City-State units and cities", 
 			"Units ignore terrain costs when moving into any tile with Hills", "Maintenance on roads & railroads reduced by [50]%", 
 			"+1 Movement for all embarked units"], 
-                        "cities": ["Sarleon","Ravenstern","Janos","Javiksholm","Torbah","Marleons","Rane","Ethos","Valonbray","Singal","Ishkoman","Senderfall","Laria","Nal Tar","Windholm","Cez","Poinsbruk","Avendor"]
+                        "cities": ["Pendor","Sarleon","Ravenstern","Janos","Javiksholm","Torbah","Marleons","Rane","Ethos","Valonbray","Singal","Ishkoman","Senderfall","Laria","Nal Tar","Windholm","Cez","Poinsbruk","Avendor"]
            }
 ]
